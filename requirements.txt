@@ -1,2 +1,4 @@
-requests>=2.28.0
-colorama>=0.4.6
+# BZX ULTIMATUM v5.0 - Dependencies
+requests>=2.28.0          # HTTP requests & proxy handling
+colorama>=0.4.6           # Colored terminal output
+urllib3>=1.26.0           # HTTP client with SSL warning suppression
