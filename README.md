@@ -1,4 +1,7 @@
-# 🔥 BZX ULTIMATUM v5.0 - MASTERPIECE EDITION 🔥
+<div align="center">
+
+# 🔥 **BZX ULTIMATUM v5.0** 🔥
+### *MASTERPIECE EDITION - 40+ ATTACK METHODS*
 
 ```
 
@@ -11,93 +14,107 @@
 ║    ██████╔╝███████╗██╔╝ ██╗██╗╚██████╔╝███████╗██║   ██║██║ ╚═╝ ██║██║  ██║   ██║   ╚██████╔╝██║ ╚═╝ ██║
 ║    ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝ ╚═════╝ ╚══════╝╚═╝   ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝     ╚═╝
 ║                                                                                  ║
-║━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━║
-║                   BZX ULTIMATUM v5.0 - MASTERPIECE EDITION                      ║
-║                  FOR EDUCATIONAL PURPOSES ONLY - BZX EDITION                    ║
-║━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━║
-║                                                                                  ║
-║                      ⚡ 40+ ATTACK METHODS | AUTO TARGET CHECK ⚡                ║
-║                 🔥 PROXY MANAGER | NO ERRORS | MAXIMUM DAMAGE 🔥               ║
-║                                                                                  ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 
 ```
 
-## 📋 DAFTAR ISI
-- [TENTANG TOOL](#tentang-tool)
-- [FITUR UTAMA](#fitur-utama)
-- [DISCLAIMER PENTING](#disclaimer-penting)
-- [INSTALASI](#instalasi)
-  - [Linux/Ubuntu/Debian](#linuxubuntudebian)
-  - [Termux (Android)](#termux-android)
-  - [VPS/Cloud Server](#vpscloud-server)
-  - [Windows (WSL)](#windows-wsl)
-- [CARPAKAI (CARA PAKAI)](#carpakai-cara-pakai)
-  - [Menu Utama](#menu-utama)
-  - [Langkah Cepat](#langkah-cepat)
-- [FITUR DETAIL](#fitur-detail)
-  - [1. TARGET CHECKER SUPER LENGKAP](#1-target-checker-super-lengkap)
-  - [2. PROXY MANAGER ENHANCED](#2-proxy-manager-enhanced)
-  - [3. 40+ ATTACK METHODS](#3-40-attack-methods)
-  - [4. NUCLEAR MODES](#4-nuclear-modes)
-- [DAFTAR LENGKAP ATTACK METHODS](#daftar-lengkap-attack-methods)
-  - [UDP ATTACKS (5)](#udp-attacks-5)
-  - [TCP ATTACKS (4)](#tcp-attacks-4)
-  - [HTTP ATTACKS (8)](#http-attacks-8)
-  - [HTTPS ATTACKS (5)](#https-attacks-5)
-  - [SLOW ATTACKS (3)](#slow-attacks-3)
-  - [ICMP ATTACKS (3)](#icmp-attacks-3)
-  - [AMPLIFICATION ATTACKS (7)](#amplification-attacks-7)
-  - [NUCLEAR MODES (4)](#nuclear-modes-4)
-- [PENGATURAN](#pengaturan)
-- [STATISTIK REAL-TIME](#statistik-real-time)
-- [TROUBLESHOOTING](#troubleshooting)
-- [UPDATE](#update)
-- [CREATOR](#creator)
-- [LICENSE](#license)
+**⚡ AUTO TARGET CHECKER | PROXY MANAGER | 40+ METHODS ⚡**  
+**🔥 FOR EDUCATIONAL PURPOSES ONLY 🔥**
+
+[![GitHub stars](https://img.shields.io/github/stars/bzdev1/bzx-ultimatum?style=for-the-badge&color=red)](https://github.com/bzdev1/bzx-ultimatum/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/bzdev1/bzx-ultimatum?style=for-the-badge&color=blue)](https://github.com/bzdev1/bzx-ultimatum/network)
+[![GitHub license](https://img.shields.io/github/license/bzdev1/bzx-ultimatum?style=for-the-badge&color=green)](https://github.com/bzdev1/bzx-ultimatum/blob/main/LICENSE)
+[![Python Version](https://img.shields.io/badge/python-3.6%2B-yellow?style=for-the-badge)](https://www.python.org/)
+
+</div>
 
 ---
 
-## ⚡ TENTANG TOOL
-
-**BZX ULTIMATUM v5.0** adalah tool penetration testing untuk simulasi DDoS attack dengan **40+ metode serangan** mencakup Layer 4, Layer 7, dan Amplification attacks. Dilengkapi dengan **Auto Target Checker** canggih dan **Proxy Manager** yang otomatis fetch proxy dari berbagai sumber.
-
-### 🎯 Tujuan:
-- ✅ Penetration Testing & Security Research
-- ✅ Keamanan Jaringan & Stress Testing
-- ✅ Educational Purpose & Learning
-- ✅ Simulasi Serangan di Server Sendiri
-
----
-
-## 🔥 FITUR UTAMA
-
-| No | Fitur | Keterangan |
-|----|-------|------------|
-| 1 | **40+ ATTACK METHODS** | UDP, TCP, HTTP, HTTPS, ICMP, DNS, NTP, dll |
-| 2 | **AUTO TARGET CHECKER** | Resolve IP, scan port, deteksi Cloudflare, dapatkan server info |
-| 3 | **PROXY MANAGER** | Fetch otomatis dari 7+ sumber, test latency, sort by speed |
-| 4 | **NUCLEAR MODES** | 4 level serangan kombinasi (Light s/d Apocalypse) |
-| 5 | **AMPLIFICATION ATTACKS** | DNS, Memcached, NTP, SSDP, Chargen |
-| 6 | **SLOW ATTACKS** | Slowloris, Slow Read, Slow Headers |
-| 7 | **NO ERRORS** | Fixed "too many open files" dan memory leak |
-| 8 | **REAL-TIME STATS** | Packets, bandwidth, speed, attack breakdown per metode |
-| 9 | **MULTI-THREADING** | Support hingga 5000 thread |
-| 10 | **CROSS PLATFORM** | Linux, Termux, Windows (WSL), VPS |
+## 📋 **DAFTAR ISI**
+- [🎯 TENTANG TOOL](#-tentang-tool)
+- [🔥 FITUR UTAMA](#-fitur-utama)
+- [⚠️ DISCLAIMER PENTING](#️-disclaimer-penting)
+- [📦 INSTALASI](#-instalasi)
+- [🚀 CARA PAKAI CEPAT](#-cara-pakai-cepat)
+- [🎮 MENU UTAMA](#-menu-utama)
+- [🔍 FITUR DETAIL](#-fitur-detail)
+- [💣 40+ ATTACK METHODS](#-40-attack-methods)
+- [📊 STATISTIK REAL-TIME](#-statistik-real-time)
+- [🧠 TIPS & TRIK](#-tips--trik)
+- [❓ TROUBLESHOOTING](#-troubleshooting)
+- [📂 STRUKTUR FILE](#-struktur-file)
+- [🔄 UPDATE](#-update)
+- [👨‍💻 CREATOR](#-creator)
+- [📜 LICENSE](#-license)
 
 ---
 
-## ⚠️ DISCLAIMER PENTING
+## 🎯 **TENTANG TOOL**
+
+<div align="center">
+<table>
+<tr>
+<td>
+
+**BZX ULTIMATUM v5.0** adalah tool penetration testing untuk simulasi serangan DDoS dengan **40+ metode serangan** mencakup Layer 4, Layer 7, dan Amplification attacks. Dilengkapi dengan **Auto Target Checker** canggih dan **Proxy Manager** yang otomatis fetch proxy dari berbagai sumber.
+
+</td>
+</tr>
+</table>
+</div>
+
+### 🎯 **Tujuan:**
+```
+
+✅ Penetration Testing & Security Research
+✅ Keamanan Jaringan & Stress Testing
+✅ Educational Purpose & Learning
+✅ Simulasi Serangan di Server Sendiri
+
+```
+
+---
+
+## 🔥 **FITUR UTAMA**
+
+<div align="center">
+
+| 🏆 | Fitur | Keterangan |
+|:--:|:------|:-----------|
+| **1** | **40+ ATTACK METHODS** | UDP, TCP, HTTP, HTTPS, ICMP, DNS, NTP, Memcached, dll |
+| **2** | **AUTO TARGET CHECKER** | Resolve IP, scan port, deteksi Cloudflare, dapatkan server info |
+| **3** | **PROXY MANAGER** | Fetch otomatis dari 7+ sumber, test latency, sort by speed |
+| **4** | **NUCLEAR MODES** | 4 level serangan kombinasi (Light, Medium, Heavy, Apocalypse) |
+| **5** | **AMPLIFICATION ATTACKS** | DNS, Memcached, NTP, SSDP, Chargen |
+| **6** | **SLOW ATTACKS** | Slowloris, Slow Read, Slow Headers |
+| **7** | **REAL-TIME STATS** | Packets, bandwidth, speed, attack breakdown per metode |
+| **8** | **MULTI-THREADING** | Support hingga 5000 thread |
+| **9** | **CROSS PLATFORM** | Linux, Termux, Windows (WSL), VPS |
+| **10** | **NO ERRORS** | Fixed "too many open files" dan memory leak |
+
+</div>
+
+---
+
+## ⚠️ **DISCLAIMER PENTING**
+
+<div align="center">
 
 ```diff
-- [!] TOOL INI HANYA UNTUK TUJUAN PENDIDIKAN DAN PENETRATION TESTING!
-- [!] DILARANG KERAS DIGUNAKAN UNTUK SERANGAN ILEGAL!
-- [!] HANYA BOLEH DIGUNAKAN DI SERVER SENDIRI / LAB!
-- [!] MELANGGAR UU ITE = PIDANA PENJARA (Pasal 30-36)!
-- [!] DEVELOPER TIDAK BERTANGGUNG JAWAB ATAS PENYALAHGUNAAN!
+- 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+- 🔴                                                              🔴
+- 🔴   [!] TOOL INI HANYA UNTUK TUJUAN PENDIDIKAN               🔴
+- 🔴   [!] DILARANG KERAS DIGUNAKAN UNTUK SERANGAN ILEGAL       🔴
+- 🔴   [!] HANYA BOLEH DIGUNAKAN DI SERVER SENDIRI / LAB        🔴
+- 🔴   [!] MELANGGAR UU ITE = PIDANA PENJARA (Pasal 30-36)      🔴
+- 🔴   [!] DEVELOPER TIDAK BERTANGGUNG JAWAB ATAS PENYALAHGUNAAN🔴
+- 🔴                                                              🔴
+- 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
 ```
 
 Dengan menggunakan tool ini, Anda menyetujui disclaimer di atas.
+
+</div>
 
 ---
 
@@ -105,11 +122,15 @@ Dengan menggunakan tool ini, Anda menyetujui disclaimer di atas.
 
 ✅ Persyaratan Sistem
 
-· Python 3.6+
-· Pip
-· Koneksi internet (untuk auto proxy)
-· RAM minimal 512MB
-· Storage 50MB
+```
+┌─────────────────────────────────────┐
+│ Python 3.6+                         │
+│ Pip                                  │
+│ Koneksi internet (untuk auto proxy)  │
+│ RAM minimal 512MB                    │
+│ Storage 50MB                         │
+└─────────────────────────────────────┘
+```
 
 📥 Install Dependencies
 
@@ -128,40 +149,22 @@ python3 bzx_ultimatum_v50.py
 🐧 Linux/Ubuntu/Debian
 
 ```bash
-# Update system
 sudo apt update && sudo apt upgrade -y
-
-# Install Python & Git
 sudo apt install python3 python3-pip git -y
-
-# Clone repo
 git clone https://github.com/bzdev1/bzx-ultimatum.git
 cd bzx-ultimatum
-
-# Install dependencies
 pip3 install -r requirements.txt
-
-# Jalankan
 python3 bzx_ultimatum_v50.py
 ```
 
 📱 Termux (Android)
 
 ```bash
-# Update termux
 pkg update && pkg upgrade -y
-
-# Install packages
 pkg install python git -y
-
-# Clone repo
 git clone https://github.com/bzdev1/bzx-ultimatum.git
 cd bzx-ultimatum
-
-# Install dependencies
 pip install -r requirements.txt
-
-# Jalankan
 python bzx_ultimatum_v50.py
 ```
 
@@ -171,20 +174,11 @@ python bzx_ultimatum_v50.py
 # SSH ke VPS
 ssh user@vps-ip
 
-# Update system
 apt update && apt upgrade -y
-
-# Install Python & Git
 apt install python3 python3-pip git -y
-
-# Clone repo
 git clone https://github.com/bzdev1/bzx-ultimatum.git
 cd bzx-ultimatum
-
-# Install dependencies
 pip3 install -r requirements.txt
-
-# Jalankan langsung
 python3 bzx_ultimatum_v50.py
 
 # Atau pake screen biar jalan di background
@@ -194,38 +188,44 @@ python3 bzx_ultimatum_v50.py
 # screen -r bzx untuk balik lagi
 ```
 
-🪟 Windows (WSL)
+---
+
+🚀 CARA PAKAI CEPAT
+
+<div align="center">
+
+⚡ LANGKAH CEPAT 60 DETIK ⚡
+
+</div>
 
 ```bash
-# Install WSL dulu (cara: wsl --install di PowerShell)
-# Buka WSL Ubuntu
+# 1. Set target
+Menu 1 → masukkan IP/Host/URL
 
-# Update system
-sudo apt update && sudo apt upgrade -y
+# 2. Check target (biar tau port mana yang open)
+Menu 6 → lihat hasil scan
 
-# Install Python & Git
-sudo apt install python3 python3-pip git -y
+# 3. Setup proxy (opsional tapi recommended)
+Menu 7 → 3 (Fetch + Test) → 4 (Toggle ON)
 
-# Clone repo
-git clone https://github.com/bzdev1/bzx-ultimatum.git
-cd bzx-ultimatum
+# 4. Pilih metode serangan
+Menu 46-49 → Pilih NUCLEAR MODE
 
-# Install dependencies
-pip3 install -r requirements.txt
-
-# Jalankan
-python3 bzx_ultimatum_v50.py
+# 5. LAUNCH!
+Menu 50 → 🔥
 ```
 
 ---
 
-🚀 CARPAKAI (CARA PAKAI)
-
-Menu Utama
+🎮 MENU UTAMA
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│              BZX MASTERPIECE v5.0 - 40+ ATTACK METHODS           │
+│                                                                   │
+│              ╔═══╗╔═══╗╔═══╗  ╔═══╗╔═══╗╔═══╗╔═══╗╔═══╗          │
+│              ║ B ║║ Z ║║ X ║  ║ M ║║ A ║║ I ║║ N ║║ 5.0 ║        │
+│              ╚═══╝╚═══╝╚═══╝  ╚═══╝╚═══╝╚═══╝╚═══╝╚═══╝          │
+│                                                                   │
 ├─────────────────────────────────────────────────────────────────┤
 │ TARGET & CONFIG                     │ ATTACK METHODS (40+)        │
 ├─────────────────────────────────────────────────────────────────┤
@@ -246,36 +246,11 @@ Menu Utama
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-Langkah Cepat
-
-Cara 1: Dengan Target Checker (Rekomendasi)
-
-```bash
-# 1. Menu 1 → Set target (IP/host/URL)
-# 2. Menu 6 → Check target (scan port, deteksi Cloudflare)
-# 3. Menu 7 → Proxy Manager → 3 (Fetch + Test) → 4 (Toggle ON)
-# 4. Menu 46-49 → Pilih NUCLEAR MODE
-# 5. Menu 50 → LAUNCH!
-```
-
-Cara 2: Manual
-
-```bash
-# 1. Menu 1 → Set target
-# 2. Menu 2 → Set port (default 80)
-# 3. Menu 3 → Set threads (500-1000)
-# 4. Menu 4 → Set duration (60-300 detik)
-# 5. Menu 11-49 → Pilih attack method
-# 6. Menu 50 → LAUNCH!
-```
-
 ---
 
-🔥 FITUR DETAIL
+🔍 FITUR DETAIL
 
-1. TARGET CHECKER SUPER LENGKAP
-
-Menu 6 - Check Target akan memberikan informasi lengkap:
+1. TARGET CHECKER SUPER LENGKAP (Menu 6)
 
 ```
 ══════════════ TARGET INFORMATION ══════════════
@@ -292,21 +267,18 @@ Port Status:
   Port 443: HTTPS (200)
   Port 21: CLOSED
   Port 22: CLOSED
-  ...
+  Port 23: CLOSED
+  Port 25: CLOSED
+  Port 53: CLOSED
+  Port 110: CLOSED
+  Port 143: CLOSED
+  Port 993: CLOSED
+  Port 995: CLOSED
+  Port 8080: CLOSED
+  Port 8443: CLOSED
 ```
 
-Informasi yang didapat:
-
-· ✅ Resolve IP dengan 3 metode (IP langsung, DNS, DNS alternative)
-· ✅ Scan 13 port umum (21,22,23,25,53,80,110,143,443,993,995,8080,8443)
-· ✅ Deteksi HTTP/HTTPS service dan dapatkan status code
-· ✅ Deteksi Cloudflare (dari header 'cf-ray')
-· ✅ Dapatkan server header (Apache, Nginx, Cloudflare, dll)
-· ✅ Test ping response
-
-2. PROXY MANAGER ENHANCED
-
-Menu 7 - Proxy Manager memiliki submenu:
+2. PROXY MANAGER (Menu 7)
 
 ```
 ══════════════ PROXY MANAGER ══════════════
@@ -321,50 +293,16 @@ Menu 7 - Proxy Manager memiliki submenu:
 ═══════════════════════════════════════════
 
 Proxy Stats:
-Total fetched: 1250
+Total fetched: 1,250
 Live proxies : 342
-Fastest      : 1.2.3.4:8080 - 0.23s
+Fastest      : 1.2.3.4:8080 (0.23s)
 ```
-
-Fitur Proxy:
-
-· ✅ Fetch dari 7+ sumber proxy gratis (ProxyScrape, GitHub, dll)
-· ✅ Test latency ke httpbin.org
-· ✅ Sort by speed (tercepat di depan)
-· ✅ Live proxy counter
-· ✅ Toggle ON/OFF untuk semua attack
-· ✅ Auto digunakan di HTTP/HTTPS attacks
-· ✅ Pilih proxy tercepat manual
-
-3. 40+ ATTACK METHODS
-
-Tool ini memiliki 40+ metode serangan yang terbagi dalam 8 kategori:
-
-Kategori Jumlah Metode
-UDP Attacks 5 Basic, Batch (100x), Mega (1000x), Random Size, Variable
-TCP Attacks 4 SYN Flood, SYN Batch, Connect, Random Port
-HTTP Attacks 8 GET, GET Batch, POST, Random Path, Header Spam, Cookie Spam, Referer Spam, Mixed
-HTTPS Attacks 5 GET, Batch, POST, Random, Header
-Slow Attacks 3 Slowloris, Slow Read, Slow Headers
-ICMP Attacks 3 Ping Flood, ICMP Flood, Mixed
-Amplification 7 DNS, DNS Batch, Memcached, NTP, SSDP, Chargen, Mixed
-NUCLEAR MODES 4 Light, Medium, Heavy, Apocalypse
-
-4. NUCLEAR MODES
-
-NUCLEAR MODES adalah serangan kombinasi yang menggabungkan berbagai metode secara acak:
-
-Mode Kombinasi
-NUCLEAR LIGHT UDP Batch + TCP SYN + HTTP GET
-NUCLEAR MEDIUM UDP Mega + TCP Batch + HTTP Batch + DNS Batch
-NUCLEAR HEAVY UDP Mega + TCP Batch + HTTP Batch + DNS Batch + ICMP
-NUCLEAR APOCALYPSE UDP Mega + TCP Batch + HTTP Batch + DNS Batch + ICMP + Slowloris
 
 ---
 
-📊 DAFTAR LENGKAP ATTACK METHODS
+💣 40+ ATTACK METHODS
 
-UDP ATTACKS (5)
+💥 UDP ATTACKS (5)
 
 Kode Nama Deskripsi
 11 UDP BASIC UDP Flood standar, 1 packet per loop
@@ -373,7 +311,7 @@ Kode Nama Deskripsi
 14 UDP RANDOM SIZE Packet size random 512-65507 bytes
 15 UDP VARIABLE Batch size random, packet size random
 
-TCP ATTACKS (4)
+🔧 TCP ATTACKS (4)
 
 Kode Nama Deskripsi
 16 TCP SYN SYN Flood standar, buka koneksi lalu tutup
@@ -381,19 +319,19 @@ Kode Nama Deskripsi
 18 TCP CONNECT Sama seperti SYN Flood
 19 TCP RANDOM PORT Attack ke random port (21,22,23,25,53,80,110,143,443)
 
-HTTP ATTACKS (8)
+🌐 HTTP ATTACKS (8)
 
 Kode Nama Deskripsi
 20 HTTP GET GET request standar
 21 HTTP GET BATCH 5 GET request per loop
 22 HTTP POST POST dengan random data
-23 HTTP RANDOM PATH Request ke path random (/wp-admin, /api, /login, dll)
+23 HTTP RANDOM PATH Request ke path random
 24 HTTP HEADER SPAM Random User-Agent, X-Forwarded-For, Referer
 25 HTTP COOKIE SPAM Sama seperti GET (cookie random)
 26 HTTP REFERER SPAM Sama seperti Header Spam
 27 HTTP MIXED Random antara GET, POST, Random Path
 
-HTTPS ATTACKS (5)
+🔒 HTTPS ATTACKS (5)
 
 Kode Nama Deskripsi
 28 HTTPS GET GET request via HTTPS
@@ -402,21 +340,21 @@ Kode Nama Deskripsi
 31 HTTPS RANDOM Random path via HTTPS
 32 HTTPS HEADER Header spam via HTTPS
 
-SLOW ATTACKS (3)
+🐌 SLOW ATTACKS (3)
 
 Kode Nama Deskripsi
 33 SLOWLORIS Keep connections open, kirim header periodic
 34 SLOW READ Sama seperti Slowloris
 35 SLOW HEADERS Sama seperti Slowloris
 
-ICMP ATTACKS (3)
+📡 ICMP ATTACKS (3)
 
 Kode Nama Deskripsi
 36 ICMP PING Ping flood standar
 37 ICMP FLOOD 10 ping per loop
 38 ICMP MIXED Random antara ping dan flood
 
-AMPLIFICATION ATTACKS (7)
+📢 AMPLIFICATION ATTACKS (7)
 
 Kode Nama Deskripsi
 39 DNS AMP DNS query ke port 53
@@ -427,7 +365,7 @@ Kode Nama Deskripsi
 44 CHARGEN AMP Sama seperti DNS AMP
 45 MIXED AMP Random antara DNS, Memcached, NTP
 
-NUCLEAR MODES (4)
+☢️ NUCLEAR MODES (4)
 
 Kode Nama Kombinasi
 46 NUCLEAR LIGHT UDP Batch + TCP SYN + HTTP GET
@@ -437,37 +375,16 @@ Kode Nama Kombinasi
 
 ---
 
-⚙️ PENGATURAN
-
-Settings yang bisa diatur:
-
-Menu Setting Range Default Keterangan
-1 Target - - IP/Host/URL target
-2 Port 1-65535 80 Port target
-3 Threads 1-5000 500 Jumlah thread parallel
-4 Duration 1-∞ 60 detik Lama serangan
-5 Packet Size 64-65507 1024 Ukuran packet (UDP/ICMP)
-7 Proxy ON/OFF OFF Gunakan proxy
-
-Tips Setting Thread:
-
-· 100-300 : Stabil, cocok untuk semua koneksi
-· 500-1000 : Cepat, butuh koneksi bagus
-· 1000-2000 : Sangat cepat, riskan error
-· 2000-5000 : Extreme, hanya untuk VPS high-end
-
----
-
 📊 STATISTIK REAL-TIME
 
-Saat attack berjalan, akan tampil:
+Saat Attack Berjalan:
 
 ```
-[☢️] 45s left | Packets: 1,234,567 | Speed: 27,434 pps
+[☢️] 298s left | Packets: 1,234,567 | Speed: 27,434 pps
 [💾] Bandwidth: 1.24 MB | 0.52 MB/s
 ```
 
-Setelah attack selesai:
+Setelah Attack Selesai:
 
 ```
 [✓] Attack finished in 60.2s
@@ -485,7 +402,27 @@ ICMP: 7,521
 
 ---
 
-❗ TROUBLESHOOTING
+🧠 TIPS & TRIK
+
+<div align="center">
+
+🚀 Tips Keterangan
+1 Thread 500-1000 Optimal untuk serangan
+2 Duration 60-300s Cukup untuk test, jangan terlalu lama
+3 Proxy WAJIB Untuk HTTP/HTTPS biar IP gak kena banned
+4 Menu 6 dulu Scan target sebelum attack biar tau port mana yang open
+5 Fetch proxy Lakukan setiap kali mau attack (proxy cepat mati)
+6 NUCLEAR MODES Paling efektif karena kombinasi attack
+7 Cloudflare Kalo target pake Cloudflare, coba port 443 dengan HTTPS attacks
+8 Packet Size 1024-4096 optimal, jangan terlalu besar
+9 Slowloris Efektif untuk server dengan koneksi terbatas
+10 Error "Too many files" Turunin thread ke 200-300
+
+</div>
+
+---
+
+❓ TROUBLESHOOTING
 
 Masalah Penyebab Solusi
 ModuleNotFoundError Library belum keinstall pip install -r requirements.txt
@@ -495,45 +432,21 @@ Proxy mati semua Sumber proxy jelek Coba fetch ulang (menu 7 → 3)
 Kena rate limit Delay terlalu kecil Turunin thread, naikin delay
 SSL Error Sertifikat expired Tool pake verify=False, aman
 Slowloris gagal Target batasi koneksi Turunin thread, naikin delay
-Too many open files Thread terlalu tinggi Turunin thread ke 200-500
+Too many open files Thread terlalu tinggi Turunin thread ke 200-300
 Connection refused Target down Ganti target atau cek ulang
-
----
-
-🔄 UPDATE
-
-Cara Update Tool ke Versi Terbaru:
-
-```bash
-cd ~/bzx-ultimatum
-git pull origin main
-pip install -r requirements.txt --upgrade
-```
-
-Cek Versi:
-
-```bash
-grep "v5.0" bzx_ultimatum_v50.py | head -1
-```
 
 ---
 
 📂 STRUKTUR FILE
 
 ```
-bzx-ultimatum/
-├── bzx_ultimatum_v50.py    # Main tool (40+ methods)
-├── requirements.txt         # Dependencies
-├── README.md               # Dokumentasi (file ini)
-├── LICENSE                 # MIT License
-└── proxies.txt             # Auto generated (proxy list)
+┌── bzx-ultimatum/
+│   ├── 📄 bzx_ultimatum_v50.py    # Main tool (40+ methods)
+│   ├── 📄 requirements.txt         # Dependencies
+│   ├── 📄 README.md               # Dokumentasi (file ini)
+│   ├── 📄 LICENSE                 # MIT License
+│   └── 📄 proxies.txt             # Auto generated (proxy list)
 ```
-
-Keterangan File:
-
-· Wajib manual: Tidak ada, semua auto
-· Auto generated: proxies.txt (saat fetch proxy)
-· Wajib di repo: bzx_ultimatum_v50.py, requirements.txt, README.md, LICENSE
 
 ---
 
@@ -555,61 +468,81 @@ pip install -r requirements.txt
 
 ---
 
-🧠 TIPS & TRIK
+🔄 UPDATE
 
-Tips Keterangan
-🚀 Thread 500-1000 Optimal untuk serangan
-⏱️ Duration 60-300s Cukup untuk test, jangan terlalu lama
-🧦 Proxy WAJIB Untuk HTTP/HTTPS biar IP gak kena banned
-📊 Menu 6 dulu Scan target sebelum attack biar tau port mana yang open
-🔄 Fetch proxy Lakukan setiap kali mau attack (proxy cepat mati)
-🎯 NUCLEAR MODES Paling efektif karena kombinasi attack
-🛡️ Cloudflare Kalo target pake Cloudflare, coba port 443 dengan HTTPS attacks
-💾 Packet Size 1024-4096 optimal, jangan terlalu besar
-🐌 Slowloris Efektif untuk server dengan koneksi terbatas
+```bash
+cd ~/bzx-ultimatum
+git pull origin main
+pip install -r requirements.txt --upgrade
+```
 
 ---
 
-📊 PERBANDINGAN VERSI
+👨‍💻 CREATOR
 
-Versi Attack Methods Proxy Target Checker Stability
-v4.1 15 ✅ ❌ Stabil
-v4.3 20 ✅ ❌ Stabil
-v4.5 25 ❌ ✅ Error
-v5.0 40+ ✅ ✅ SUPER STABIL
-
----
-
-🗿 CREATOR
+<div align="center">
 
 ```
-Author  : bzdev1 / Bzx
-GitHub  : https://github.com/bzdev1
-Repo    : https://github.com/bzdev1/bzx-ultimatum
+╔════════════════════════════════════════════════════════════╗
+║                                                            ║
+║   ░█████╗░███████╗██████╗░███████╗██╗░░░██╗██╗░░██╗       ║
+║   ██╔══██╗╚════██║██╔══██╗██╔════╝██║░░░██║╚██╗██╔╝       ║
+║   ██║░░╚═╝░░███╔═╝██████╔╝█████╗░░██║░░░██║░╚███╔╝░       ║
+║   ██║░░██╗██╔══╝░░██╔══██╗██╔══╝░░██║░░░██║░██╔██╗░       ║
+║   ╚█████╔╝███████╗██║░░██║███████╗╚██████╔╝██╔╝╚██╗       ║
+║   ░╚════╝░╚══════╝╚═╝░░╚═╝╚══════╝░╚═════╝░╚═╝░░╚═╝       ║
+║                                                            ║
+╠════════════════════════════════════════════════════════════╣
+║  GitHub  : https://github.com/bzdev1                       ║
+║  Repo    : https://github.com/bzdev1/bzx-ultimatum         ║
+║  Dibuat dengan ☕, 🍺, dan amarah                           ║
+╚════════════════════════════════════════════════════════════╝
+
 ```
 
-Dibuat dengan ☕, 🍺, dan amarah.
+</div>
 
 ---
 
 📜 LICENSE
 
-MIT License - Bebas dimodifikasi dan didistribusikan, tapi tetap ingat disclaimer di atas.
+<div align="center">
+
+```
+╔════════════════════════════════════════════════════════════╗
+║                    MIT LICENSE                              ║
+╠════════════════════════════════════════════════════════════╣
+║  Copyright (c) 2026 bzdev1                                  ║
+║                                                              ║
+║  Permission is hereby granted, free of charge, to any       ║
+║  person obtaining a copy of this software and associated    ║
+║  documentation files (the "Software"), to deal in the       ║
+║  Software without restriction...                            ║
+╚════════════════════════════════════════════════════════════╝
+
+```
+
+</div>
 
 ---
 
 ⭐ SUPPORT
 
-Kalau tools ini berguna:
+<div align="center">
 
-· ⭐ Star repo ini di GitHub
-· 🍴 Fork kalau mau modifikasi
-· 🐛 Report issue kalau nemu bug
-· 💀 Jangan lupa jadi hacker yang bijak
+🌟 Jangan lupa kasih star di GitHub! 🌟
+
+https://img.shields.io/github/stars/bzdev1/bzx-ultimatum?style=for-the-badge&color=red
+https://img.shields.io/github/forks/bzdev1/bzx-ultimatum?style=for-the-badge&color=blue
+https://img.shields.io/github/watchers/bzdev1/bzx-ultimatum?style=for-the-badge&color=green
+
+</div>
 
 ---
 
 💬 TESTIMONIAL
+
+<div align="center">
 
 "Akhirnya nemu tool yang lengkap banget, ada target checker, proxy, 40+ metode. Mantap!"
 — Anonymous User
@@ -620,22 +553,43 @@ Kalau tools ini berguna:
 "Menu 6 (Check Target) sangat membantu buat tau port mana yang terbuka."
 — Bx User
 
+</div>
+
 ---
 
 🗿 CLOSING WORDS
 
-"Hacking is not about being evil. It's about knowing how things work,
-and sometimes, showing people how broken their security is."
-— Bzx, 2026
-
-Sekarang lu punya senjata paling lengkap. 40+ metode, auto target check, proxy manager. Pake dengan bijak, atau siap-siap tamu pakai seragam batik. 😁🔥💀
-
----
+<div align="center">
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║  © 2026 bzdev1 - BZX ULTIMATUM v5.0 - Masterpiece Edition                   ║
-║  "Hanya untuk pendidikan, jangan jadi bego"                                  ║
+║                                                                                  ║
+║   "Hacking is not about being evil. It's about knowing how things work,         ║
+║    and sometimes, showing people how broken their security is."                 ║
+║                                                                                  ║
+║                                — Bzx, 2026                                       ║
+║                                                                                  ║
+║   Sekarang lu punya senjata paling lengkap. 40+ metode, auto target check,      ║
+║   proxy manager. Pake dengan bijak, atau siap-siap tamu pakai seragam batik.    ║
+║                                                                                  ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                                  ║
+║  © 2026 bzdev1 - BZX ULTIMATUM v5.0 - Masterpiece Edition                       ║
+║  "Hanya untuk pendidikan, jangan jadi bego"                                      ║
+║                                                                                  ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+⬆ Kembali ke Atas
+
+</div>
